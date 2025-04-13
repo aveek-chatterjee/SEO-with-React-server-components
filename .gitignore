@@ -5,3 +5,4 @@ dist
 .DS_Store
 src/.__dev_hmr
 src/.__prod__
+.next

@@ -1,4 +1,4 @@
-import "./globals.css";
+import "./styles/globals.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 
@@ -27,12 +27,6 @@ export default function RootLayout({
               <ul className="nav-links">
                 <li>
                   <a href="/">Home</a>
-                </li>
-                <li>
-                  <a href="/blog">Articles</a>
-                </li>
-                <li>
-                  <a href="/about">About</a>
                 </li>
               </ul>
             </nav>
